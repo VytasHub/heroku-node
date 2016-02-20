@@ -14,7 +14,7 @@ Tutorial on pushing Web projects on Server via command line
 >heroku create heroku-node-vytas
 >git push heroku master
 >heroku ps:scale web=1
->heroku open
+>heroku open 
 
 ##Usefull Comands
 >git remote -v         //Shows what you are pushing 
