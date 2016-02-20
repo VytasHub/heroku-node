@@ -3,7 +3,7 @@
 
 Tutorial on pushing Web projects on Server via command line
 
-Commands:
+Commands
 ---------
 1.  heroku 
 2.  heroku login 
@@ -16,10 +16,11 @@ Commands:
 9.  heroku ps:scale web=1
 10. heroku open 
   
+Usefull Comands
+---------
 
-##Usefull Comands
->git remote -v         //Shows what you are pushing 
->git remote rm heroku  //If there is old repository removes it
+1.git remote -v         //Shows what you are pushing 
+2.git remote rm heroku  //If there is old repository removes it
 
 
 https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
