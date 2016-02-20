@@ -3,12 +3,9 @@
 
 Tutorial on pushing Web projects on Server via command line
 
-<br Commands   />
-<br heroku />
-<br heroku login />
-<br />
-
-
+##Commands
+heroku 
+heroku login 
 heroku login
 git clone github.com/VytasHub/heroku-node
 npm install
@@ -19,7 +16,7 @@ git push heroku master
 heroku ps:scale web=1
 heroku open
 
-Usefull Comands
+##Usefull Comands
 git remote -v         //Shows what you are pushing 
 git remote rm heroku  //If there is old repository removes it
 
