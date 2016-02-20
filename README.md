@@ -4,10 +4,10 @@
 Tutorial on pushing Web projects on Server via command line
 
 ##Commands
-heroku 
-heroku login 
-heroku login
-git clone github.com/VytasHub/heroku-node
+1.heroku 
+2.heroku login 
+3.heroku login
+4.git clone github.com/VytasHub/heroku-node
 npm install
 node server.js
 heroku create
