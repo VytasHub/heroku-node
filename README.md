@@ -19,8 +19,8 @@ Commands
 Usefull Comands
 ---------
 
-1.git remote -v         //Shows what you are pushing 
-2.git remote rm heroku  //If there is old repository removes it
+1.  git remote -v         //Shows what you are pushing 
+2.  git remote rm heroku  //If there is old repository removes it
 
 
 https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
